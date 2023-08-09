@@ -3,7 +3,6 @@ let even = 0
 let odd = 0
 let mul2 = 0
 let mul3 = 0
-// let result , even , mul2 , mul3 = 0 
 
 for(let i=1;i<=100;i++){
     sum+=i
